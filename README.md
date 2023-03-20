@@ -20,6 +20,6 @@ JupyterLite nécessite un navigateur web moderne :
 
 ## Licence
 
-<img src="img/logo_CC-BY-SA.png" align="left">
+<img src="img/logo_CC-BY-SA.png" align="right">
 
-Ce contenu est mis à disposition selon les termes de la licence [Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) (CC BY-SA 4.0). Consultez le fichier [LICENSE](LICENSE.txt) pour plus de détails.
+Ce contenu est mis à disposition selon les termes de la licence [Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) (CC BY-SA 4.0). Consultez le fichier [LICENSE.txt](LICENSE.txt) pour plus de détails.
