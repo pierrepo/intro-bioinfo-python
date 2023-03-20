@@ -1,4 +1,4 @@
-# SDV L1 - Introduction à la bioinformation
+# SDV L1 - Introduction à la bioinformatique
 
 ## Programmation Python
 
@@ -17,7 +17,7 @@ JupyterLite is being tested against modern web browsers:
 
 ### Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pierrepo/intro-bioinfo-python/HEAD?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pierrepo/intro-bioinfo-python/HEAD?labpath=content)
 
 
 ## License
