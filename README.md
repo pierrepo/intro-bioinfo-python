@@ -1,19 +1,21 @@
-# Introduction à la bioinformation - Programmation Python
+# SDV L1 - Introduction à la bioinformation
+
+## Programmation Python
 
 ![](img/logo_python.png)
 
-## JupyterLite
+### JupyterLite
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://pierrepo.github.io/intro-bioinfo-python/lab/index.html)
 
-## Requirements
+#### Requirements
 
 JupyterLite is being tested against modern web browsers:
 
 - Firefox 90+
 - Chromium 89+
 
-## Binder
+### Binder
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pierrepo/intro-bioinfo-python/HEAD?urlpath=lab)
 
