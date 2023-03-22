@@ -1,4 +1,4 @@
-# SDV L1 - Introduction à la bioinformatique
+# SDV - L1 - Introduction à la bioinformatique
 
 ## Programmation Python
 
