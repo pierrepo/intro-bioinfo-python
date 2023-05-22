@@ -16,3 +16,4 @@ dependencies:
     - xlrd
     - matplotlib
     - biopython
+    - nbdime
